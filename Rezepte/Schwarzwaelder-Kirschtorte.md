@@ -1,4 +1,4 @@
-Füllung vorbereiten
+#Füllung vorbereiten
 Die Sauerkirschen abtropfen lassen, den Saft auffangen.
 250 ml Kirschsaft mit Zucker aufkochen,die Kirschen hinzufügen und kurz mitkochen. Abkühlen lassen.
 Die Sahne mit Sahnesteif und Vanillezucker steif schlagen.
@@ -11,23 +11,23 @@ Den dritten Boden auflegen und die gesamte Torte mit der restlichen Sahne bestre
 Dekoration:
 Die Zartbitterschokolade raspeln und die Torte damit bestreuen.
 Die Kirschen auf der Torte verteilen.
-50gr Speisestärke
-30gr Kakaopulver
-1 TL Backpulver
-Für die Füllung:
-1 Glas Sauerkirschen ( Abtropfgewicht za 350gr)
-2 El Zucker
-2 EL Kirschwasser
-500 ml Sahne
-2 Päckchen Sahnesteif
-Schwarzwälder-Kirschtorte
-Einkaufsliste:
-Für den Biskuitboden:
-6 Eier
-150 gr Zucker
-1 Pâckchen Vanillezucker
-100 gr Mehl
-en Backofen auf 180 Grad vorheizen
+-50gr Speisestärke
+-30gr Kakaopulver
+-1 TL Backpulver
+##Für die Füllung:
+-1 Glas Sauerkirschen ( Abtropfgewicht za 350gr)
+-2 El Zucker
+-2 EL Kirschwasser
+-500 ml Sahne
+-2 Päckchen Sahnesteif
+-Schwarzwälder-Kirschtorte
+-Einkaufsliste:
+###Für den Biskuitboden:
+-6 Eier
+-150 gr Zucker
+-1 Pâckchen Vanillezucker
+-100 gr Mehl
+den Backofen auf 180 Grad vorheizen
 Eier trennen und das Eiweiss steif schlagen
 Zucker und Vanillezucker einreiseln lassen
 Eigelb unterheben
